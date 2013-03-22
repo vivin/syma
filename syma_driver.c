@@ -7,7 +7,7 @@
  *
  *   https://sites.google.com/site/spirixcode/code/kodek.txt?attredirects=0
  *
- * The original author is "Aqualung" from the RCGroups.com message board.
+ * The original author is Jim Hamilton AKA "Aqualung", from the RCGroups.com message board.
  *
  * Polarities have been reversed from the original version and the code has been modified to be more readable. In
  * addition, comments have been added.
